@@ -1,0 +1,2 @@
+require("amrit")
+print("hello")
